@@ -1,4 +1,4 @@
-package com.data.demoStudy;
+package com.data.demoStudy.Application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
